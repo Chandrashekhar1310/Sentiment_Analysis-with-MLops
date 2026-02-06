@@ -208,6 +208,5 @@ __marimo__/
 
 cred.txt
 notebooks/
-data/
-models/
 local_s3/
+models/
